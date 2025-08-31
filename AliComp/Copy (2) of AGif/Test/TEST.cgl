@@ -1,0 +1,17 @@
+Functions called:
+ fflush (4 times)
+ free (7 times)
+ SysFreeMem (293 times)
+ SysGetMem (294 times)
+ calloc (1 times)
+ strlen (27 times)
+ realloc (1 times)
+ strdup (1 times)
+ malloc (4 times)
+ memcpy (2 times)
+Resource types used:
+ memory block (301 allocs, 222 max)
+Modules used:
+ 00400000 11/16/2001 18:59:42
+ E:\KEEPDISKS\COMPONENTS\CENTER_PROJ\ALICOMP\AGIF\TEST\TEST.EXE
+==========================================
